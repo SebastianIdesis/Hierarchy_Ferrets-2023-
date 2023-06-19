@@ -8,6 +8,8 @@ Installation and usage: Download and unzip the directory, open MATLAB, and then 
 
 They require no additional software packages with the exception of the HMM-MAR (Go to https://github.com/OHBA-analysis/HMM-MAR to download the latest version)
 
+For Autoencoder analysis, see: https://github.com/sebastiangeli/irreversibility_ferrets
+
 For any question, contact: sebastian.idesis@gmail.com
 
 If you use this code, please cite: TBD
