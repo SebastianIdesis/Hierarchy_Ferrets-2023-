@@ -12,4 +12,4 @@ For Autoencoder analysis, see: https://github.com/sebastiangeli/irreversibility_
 
 For any question, contact: sebastian.idesis@gmail.com
 
-If you use this code, please cite: TBD
+If you use this code, please cite: Idesis, S., Geli, S., Faskowitz, J., Vohryzek, J., Sanz Perl, Y., Pieper, F., ... & Deco, G. (2023). Functional hierarchies in brain dynamics characterized by signal reversibility in ferret cortex. bioRxiv, 2023-07.
